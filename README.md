@@ -12,4 +12,9 @@ pepper https://primenow.amazon.com/dp/B074H6GRM7?qid=1569420750&m=ANOZNJWOJO2HN&
 
 Directions:
 1.BEAT eggs, milk, salt and pepper in medium bowl until blended.
-2
+
+2.HEAT butter in large nonstick skillet over medium heat until hot. POUR IN egg mixture. As eggs begin to set, GENTLY PULL the eggs across the pan with a spatula, forming large soft curds.
+
+3.CONTINUE cooking – pulling, lifting and folding eggs – until thickened and no visible liquid egg remains. Do not stir constantly. REMOVE from heat. SERVE immediately.
+
+!(images/C:\Users\197320\Documents\GitHub\Recipe-Markdown\How-to-Scramble-Eggs.jpg)
