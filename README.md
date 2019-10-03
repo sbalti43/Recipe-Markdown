@@ -2,7 +2,11 @@
  How to make my favorite breakfeast
 <My favorite breakfeast food is scambled eggs.
 
-Ingredients: four eggs, 1/4 cup of milk,salt and pepper, and 2 teaspoons of butter
+Ingredients:
+
+ four eggs, 1/4 cup of milk,salt and pepper, and 2 teaspoons of butter
+
+Where too purchase:
 
 eggs https://primenow.amazon.com/gp/product/B07PFDYT9T?qid=1566848811&m=ANOZNJWOJO2HN&sr=1-5&ref_=pn_sr_sg_5_img_ANOZNJWOJO2HN
 
@@ -16,6 +20,7 @@ pepper https://primenow.amazon.com/dp/B074H6GRM7?qid=1569420750&m=ANOZNJWOJO2HN&
 
 
 Directions:
+
 1.BEAT eggs, milk, salt and pepper in medium bowl until blended.
 
 2.HEAT butter in large nonstick skillet over medium heat until hot. POUR IN egg mixture. As eggs begin to set, GENTLY PULL the eggs across the pan with a spatula, forming large soft curds.
